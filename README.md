@@ -5,9 +5,6 @@
 
 </div>
 
-
-<h1 align="center"> HELLO WORLD! I AM MOHAMMED SAAD </h1>
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full+Stack+Web+Developer;App+Developer;Automation+Engineer+" alt="Typing SVG" />
 
@@ -58,4 +55,34 @@ As a passionate technologist and problem-solver, I excel in web development, dat
 <img src="https://github-readme-stats.vercel.app/api?username=b1gh3ro&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b1gh3ro&theme=highcontrast&hide_border=true">
+
+### Top Repositories
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/sri-harini-m/legalink">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sri-harini-m&repo=legalink&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/M-A-Edwards/legalite">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-A-Edwards&repo=legalite&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Mohammed-Shoaib01/EventElevate">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-Shoaib01&repo=EventElevate&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/b1gh3ro/first-line-of-care">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=b1gh3ro&repo=first-line-of-care&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
