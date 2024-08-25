@@ -1,16 +1,61 @@
-## Hi there 👋
 
-<!--
-**b1gh3ro/b1gh3ro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+![Mohammed Saad's Card](https://cardivo.vercel.app/api?name=Mohammed%20Saad&description=👋%20Hi!%20I’m%20Mohammed,%20weaving%20code%20and%20creativity%20into%20every%20project.%20From%20web%20dev%20to%20data%20crunching,%20let’s%20make%20tech%20magic%20happen!&image=https://lh3.googleusercontent.com/pw/AP1GczNolblKKIlWGKNSJxngwEK1GGgsvVkty7S-_5o_4ffR-eQaRWOxM3oHjIcJ4qT_7mL72425Qnhpp0GlF5jCNW04zTeqv6UD_J8JBxriGlG2QZaZ6kVYJKQ5j7zhI5ZsNHUfTp9BOwt1w6HpWzVtz42zKg=w833-h946-s-no-gm?authuser=0&backgroundColor=%23ecf0f1&instagram=@this_is_sadll&linkedin=mohammed%20saad%20mujeeb&pattern=leaf&colorPattern=%23eaeaea)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+
+<h1 align="center"> HELLO WORLD! I AM MOHAMMED SAAD </h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full+Stack+Web+Developer;App+Developer;Automation+Engineer+" alt="Typing SVG" />
+
+</p>
+
+
+<div align="center">
+
+
+<br>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=b1gh3ro&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+</p>
+
+
+<h2 align="center">🚀 About Me</h2>
+
+As a passionate technologist and problem-solver, I excel in web development, data analytics, and hackathons. With a track record of successful projects and a knack for innovative solutions, I am dedicated to leveraging my skills in coding, app development, and automation to drive meaningful results. My enthusiasm for technology and continuous learning empowers me to tackle complex challenges and contribute effectively in dynamic tech environments.
+
+
+<h3 align="center">Git Stats</h3>
+
+<div align="center">
+ 
+  <img src="https://streak-stats.demolab.com/?user=b1gh3ro&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=b1gh3ro&custom_title=Saad's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<br>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1gh3ro&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=b1gh3ro&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=b1gh3ro&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=b1gh3ro&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b1gh3ro&theme=highcontrast&hide_border=true">
+
