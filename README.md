@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![Mohammed Saad's Card](https://cardivo.vercel.app/api?name=Mohammed%20Saad&description=👋%20Hi!%20I’m%20Mohammed,%20weaving%20code%20and%20creativity%20into%20every%20project.%20From%20web%20dev%20to%20data%20crunching,%20let’s%20make%20tech%20magic%20happen!&image=https://lh3.googleusercontent.com/pw/AP1GczNolblKKIlWGKNSJxngwEK1GGgsvVkty7S-_5o_4ffR-eQaRWOxM3oHjIcJ4qT_7mL72425Qnhpp0GlF5jCNW04zTeqv6UD_J8JBxriGlG2QZaZ6kVYJKQ5j7zhI5ZsNHUfTp9BOwt1w6HpWzVtz42zKg=w833-h946-s-no-gm?authuser=0&backgroundColor=%23ecf0f1&instagram=@this_is_sadll&linkedin=mohammed%20saad%20mujeeb&pattern=leaf&colorPattern=%23eaeaea)
+![Mohammed Saad's Card](https://cardivo.vercel.app/api?name=Mohammed%20Saad&description=Hi!%20I’m%20Saad,%20a%2019-year-old%20weaving%20code%20and%20creativity%20into%20every%20project.%20From%20web%20and%20app%20dev%20to%20automation%20and%20anything%20in%20between&image=https://lh3.googleusercontent.com/pw/AP1GczNolblKKIlWGKNSJxngwEK1GGgsvVkty7S-_5o_4ffR-eQaRWOxM3oHjIcJ4qT_7mL72425Qnhpp0GlF5jCNW04zTeqv6UD_J8JBxriGlG2QZaZ6kVYJKQ5j7zhI5ZsNHUfTp9BOwt1w6HpWzVtz42zKg=w833-h946-s-no-gm?authuser=0&backgroundColor=%23ecf0f1&instagram=@this_is_sadll&linkedin=mohammed%20saad%20mujeeb&pattern=leaf&colorPattern=%23eaeaea)
 
 </div>
 
