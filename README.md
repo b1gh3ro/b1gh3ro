@@ -25,6 +25,19 @@
 <h2 align="center">🚀 About Me</h2>
 
 As a passionate technologist and problem-solver, I excel in web development, data analytics, and hackathons. With a track record of successful projects and a knack for innovative solutions, I am dedicated to leveraging my skills in coding, app development, and automation to drive meaningful results. My enthusiasm for technology and continuous learning empowers me to tackle complex challenges and contribute effectively in dynamic tech environments.
+<br></br>
+Projects:
+https://github.com/Mohammed-Shoaib01/EventElevate
+https://github.com/M-A-Edwards/legalite
+https://github.com/sri-harini-m/legalink
+https://github.com/saifxyzyz/jobhut
+https://github.com/sri-harini-m/first-line-of-care
+https://github.com/esscs/eyeconcept
+https://github.com/Mohammed-Shoaib01/Alpha_Bytes_Thugs_App
+https://dospace-ksa.com/
+https://www.massadrhr.com/
+https://mabraik.com/
+https://mabraik.com/strongmotorsksa
 
 
 <h3 align="center">Git Stats</h3>
