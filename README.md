@@ -1,102 +1,118 @@
-
 <div align="center">
-
-![Mohammed Saad's Card](https://cardivo.vercel.app/api?name=Mohammed%20Saad&description=Hi!%20I’m%20Saad,%20a%2019-year-old%20weaving%20code%20and%20creativity%20into%20every%20project.%20From%20web%20and%20app%20dev%20to%20automation%20and%20anything%20in%20between&image=https://lh3.googleusercontent.com/pw/AP1GczNolblKKIlWGKNSJxngwEK1GGgsvVkty7S-_5o_4ffR-eQaRWOxM3oHjIcJ4qT_7mL72425Qnhpp0GlF5jCNW04zTeqv6UD_J8JBxriGlG2QZaZ6kVYJKQ5j7zhI5ZsNHUfTp9BOwt1w6HpWzVtz42zKg=w833-h946-s-no-gm?authuser=0&backgroundColor=%23ecf0f1&instagram=@this_is_sadll&linkedin=mohammed%20saad%20mujeeb&pattern=leaf&colorPattern=%23eaeaea)
-
+  
+  <h1>
+    Hi there, I'm Mohammed Saad 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  
+  <p>
+    <strong>Computer Engineer | Full-Stack Developer | App Developer | Automation Enthusiast</strong>
+  </p>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/mohammed-saad-mujeeb">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://instagram.com/this_is_sadll">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+  </p>
+  
 </div>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full+Stack+Web+Developer;App+Developer;Automation+Engineer+" alt="Typing SVG" />
+---
 
-</p>
+### 🚀 About Me
 
+I'm a passionate and highly skilled Software Engineer with expertise in web and app development, automation, and data analysis. I specialize in creating scalable, user-centric solutions using modern technologies like React, Flutter, and Python. Having contributed to multiple award-winning hackathon projects, I have a proven ability to innovate and solve real-world problems. I am committed to continuous learning and delivering impactful results.
 
-<div align="center">
+---
 
-
-<br>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=b1gh3ro&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
-</p>
-
-
-<h2 align="center">🚀 About Me</h2>
-
-As a passionate technologist and problem-solver, I excel in web development, data analytics, and hackathons. With a track record of successful projects and a knack for innovative solutions, I am dedicated to leveraging my skills in coding, app development, and automation to drive meaningful results. My enthusiasm for technology and continuous learning empowers me to tackle complex challenges and contribute effectively in dynamic tech environments.
-<br></br>
-Projects:
-https://github.com/Mohammed-Shoaib01/EventElevate
-https://github.com/M-A-Edwards/legalite
-https://github.com/sri-harini-m/legalink
-https://github.com/saifxyzyz/jobhut
-https://github.com/sri-harini-m/first-line-of-care
-https://github.com/esscs/eyeconcept
-https://github.com/Mohammed-Shoaib01/Alpha_Bytes_Thugs_App
-https://dospace-ksa.com/
-https://www.massadrhr.com/
-https://mabraik.com/
-https://mabraik.com/strongmotorsksa
-https://gdgou.vercel.app/
-https://saeou.vercel.app/
-
-<h3 align="center">Git Stats</h3>
+### 💻 My Tech Stack
 
 <div align="center">
- 
-  <img src="https://streak-stats.demolab.com/?user=b1gh3ro&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-  <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=b1gh3ro&custom_title=Saad's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-<br>
-<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </p>
+</div>
+
+---
+
+### ✨ My Featured Projects
+
+Here are some of the projects I'm most proud of.
+
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1gh3ro&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/M-A-Edwards/legalite">📌 Legalite</a></h3>
+      <p>A cross-platform Flutter app to modernize the legal ecosystem by connecting clients and lawyers. Features include secure role-based authentication, encrypted real-time messaging, a lawyer directory, and an AI-powered law bot for instant legal guidance.</p>
+      <p><sub><b>Tools:</b> Flutter, Dart, Firebase, NLP</sub></p>
     </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=b1gh3ro&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sri-harini-m/legalink">📌 Legalink</a></h3>
+      <p>A web and mobile platform to assist undertrial prisoners in India by streamlining access to legal aid. The app provides real-time client tracking, an attorney directory, trial management dashboards, and a GPT-based AI Lawbot for guidance.</p>
+      <p><sub><b>Tools:</b> React.js, Node.js, Firebase, OpenAI API</sub></p>
     </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=b1gh3ro&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Mohammed-Shoaib01/EventElevate">📌 EventElevate</a></h3>
+      <p>A cross-platform event management app for creating, managing, and attending events. Features include secure authentication, personalized event dashboards, and real-time participant tracking with QR code scanning.</p>
+      <p><sub><b>Tools:</b> React Native, Firebase, Expo</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sri-harini-m/first-line-of-care">📌 Prior Care</a></h3>
+      <p>An AI-powered mobile healthcare app that provides health diagnostics, appointment scheduling, and a medicine shop. It integrates OpenAI's GPT to analyze symptoms and recommend actions.</p>
+      <p><sub><b>Tools:</b> React Native, Expo Go, OpenAI (GPT)</sub></p>
     </td>
   </tr>
 </table>
 
-</div>
+#### And some other cool things I've built:
+- **[JobHut](https://github.com/saifxyzyz/jobhut)**: A platform to connect job seekers with opportunities.
+- **[EyeConcept](https://github.com/esscs/eyeconcept)**: A mobile app to help sales representatives quote prices faster.
+- **[Alpha Bytes Thugs App](https://github.com/Mohammed-Shoaib01/Alpha_Bytes_Thugs_App)**: A fun project from a hackathon.
+- **Live Websites**: [dospace-ksa.com](https://dospace-ksa.com/), [massadrhr.com](https://www.massadrhr.com/), [mabraik.com](https://mabraik.com/), [strongmotorsksa](https://mabraik.com/strongmotorsksa), [gdgou.vercel.app](https://gdgou.vercel.app/), and [saeou.vercel.app](https://saeou.vercel.app/).
 
-<img src="https://github-readme-stats.vercel.app/api?username=b1gh3ro&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
+---
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b1gh3ro&theme=highcontrast&hide_border=true">
+### 📊 My GitHub Stats
 
-### Top Repositories
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/sri-harini-m/legalink">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sri-harini-m&repo=legalink&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/M-A-Edwards/legalite">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-A-Edwards&repo=legalite&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Mohammed-Shoaib01/EventElevate">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-Shoaib01&repo=EventElevate&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/b1gh3ro/first-line-of-care">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=b1gh3ro&repo=first-line-of-care&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=b1gh3ro&show_icons=true&theme=highcontrast&hide_border=true&border_radius=15" alt="Saad's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b1gh3ro&theme=highcontrast&hide_border=true&border_radius=5" alt="GitHub Streak" />
+
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1gh3ro&layout=compact&theme=highcontrast&hide_border=true&langs_count=8" alt="Top Languages">
+  
+  <details>
+    <summary>Click to view my GitHub Activity Graph</summary>
+    <br>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=b1gh3ro&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  </details>
+
 </div>
 
+---
+
+### 📫 Let's Connect!
+
+I'm always open to collaborating on projects or discussing new ideas. Feel free to reach out to me!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammed-saad-mujeeb">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
+  </a>
+</p>
